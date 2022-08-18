@@ -1,0 +1,188 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  background-color: #0e0e0e;
+}
+#container {
+  height: 610px;
+  width: 612px;
+  margin: 20px auto;
+  background-color: #ffcf00;
+}
+#cal-body {
+  height: 455px;
+  width: 375px;
+  margin: 0px auto;
+  position: relative;
+  top: 64px;
+  border-radius: 35px;
+}
+#display {
+  height: 145px;
+  background-color: #00aeed;
+  border-top-left-radius: 35px;
+  border-top-right-radius: 35px;
+  position: relative;
+  bottom: 20px;
+}
+#border-box {
+  background-color: #404040;
+  height: 85px;
+  margin: 20px;
+  top: 35px;
+  position: relative;
+  border-radius: 10px;
+}
+#output {
+  margin: 5px 25px;
+  height: 53px;
+  background-color: #c8c8c8;
+  top: 10px;
+  position: relative;
+  border-radius: 8px;
+  text-align: right;
+  font-size: 30px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-family: "Mate SC", serif;
+}
+#buttons {
+  height: 295px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  background-color: #ffffff;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+  outline: none;
+  position: relative;
+  bottom: 20px;
+}
+.button {
+  text-align: center;
+  align-items: center;
+  height: 50px;
+  width: 72px;
+  margin: 5.5px;
+  border-radius: 14px;
+  float: left;
+  background-color: #dadada;
+  font-size: 22px;
+  font-weight: bolder;
+  color: #67666b;
+  cursor: pointer;
+  font-family: "Mate SC", serif;
+  outline: none;
+}
+.button:nth-child(1):hover {
+  background-color: #be2323;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(2):hover {
+  background-color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(3):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(4):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(5):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(6):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(7):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(8):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(9):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(10):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(11):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(12):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(13):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(14):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(15):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(16):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(17):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.button:nth-child(18):hover {
+  background-color: #a4a4a4;
+  color: #222222;
+  transition: ease-in-out 0.5s;
+}
+.C {
+  background-color: #ff4c57;
+  color: #ffffff;
+}
+.CE {
+  background-color: #5b5b5b;
+  color: #ffffff;
+}
+.equal {
+  width: 153px;
+  background-color: #00aeed;
+  color: #ffffff;
+}
+.equal:hover {
+  background-color: #0085b6;
+  transition: ease-in-out 0.5s;
+}
+.num {
+  font-size: 30px;
+}
